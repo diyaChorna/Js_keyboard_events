@@ -1,0 +1,198 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  .all{
+      width: 100%;
+      height: 957px;
+      display: flex;
+      justify-content: center;
+      padding-top: 100px;
+  }
+  .colors{
+      width: 50px;
+      height:20px;
+      background: gold;
+  }
+  
+  .images{
+      width: 50px;
+      height:20px;
+      background: rgb(114, 1, 158);
+  }
+  .box{ 
+      width: 400px;
+      height: 400px;
+  }
+  .top{
+      width: 100%;
+      height: 33.3%;
+      display: flex;
+  }
+  .one{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(2, 122, 192);
+  }
+  .two{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(250, 102, 4);
+  }
+  .three{
+      width: 33.4%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(196, 0, 26);
+  }
+  
+  .center{
+      width: 100%;
+      height: 33.3%;
+      display: flex;
+  }
+  .four{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(171, 240, 12);
+  }
+  .five{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(164, 5, 238);
+  }
+.six{
+      width: 33.4%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(145, 10, 73);
+}
+.bottom{
+       width: 100%;
+      height: 33.4%;
+      display: flex;
+}
+  .seven{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(8, 247, 68);
+  }
+  .eight{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(240, 22, 7);
+  }
+  .nine{
+      width: 33.4%;
+      height: 100%;
+      border: 1px solid #000;
+      background:rgb(0, 13, 196);
+  }
+  
+  .box2{ 
+      width: 400px;
+      height: 400px;
+  }
+  .top2{
+      width: 100%;
+      height: 33.3%;
+      display: flex;
+  }
+  .one2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background-image: url(https://lebisca.com/wp-content/uploads/2020/07/Simple_Landscape_Photography_Tips_With_Tons_of_Impact.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .two2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://www.pandotrip.com/wp-content/uploads/2016/07/li-Photo-by-Santo-980x572.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .three2{
+      width: 33.4%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://en.bcdn.biz/Images/2012/11/1/fdefc3b1-e76e-44fa-bf5c-fa1b069f26d1.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .center2{
+      width: 100%;
+      height: 33.3%;
+      display: flex;
+  }
+  .four2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa374569469517.5b82ce7e5e33b.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .five2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-G15iTGp76Wp8IgdF64zzt4XKZY_so5tcQ&usqp=CAU);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .six2{
+      width: 33.4%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://i.imgur.com/wOMCMfT.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .bottom2{
+      width: 100%;
+      height: 33.4%;
+      display: flex;
+  }
+  .seven2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://www.sony-asia.com/microsite/cityscape/assets/images/au/img-1.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .eight2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Y9_UM2BrdmFQ5eWavs2r0ss5T1WnKGF0bg&usqp=CAU);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
+  .nine2{
+      width: 33.3%;
+      height: 100%;
+      border: 1px solid #000;
+      background:url(https://tukiem.com/wp-content/uploads/2017/09/PT_hero_42_153645159.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center bottom;
+  }
