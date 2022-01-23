@@ -1,0 +1,55 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+.all{
+    width: 100%;
+    height: 937px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(219, 0, 84);
+    flex-wrap: wrap;
+}
+.all, .keyboard, .cl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pole{
+    background-color: #fff;
+}
+.pole, .keyboard{
+    width: 70%;
+    height: 300px;
+    border-radius: 30px;
+}
+.keyboard{
+    width: 70%;
+    height: 500px;
+    flex-wrap: wrap;
+}
+.bl{
+    width: 97%;
+    height: 19%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cl{
+    height: 90%;
+    width: 6%;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.backspace, .tab, .capslock, .enter, .shift{
+    width: 12%;
+}
+.gap{
+    width: 100%;
+}
+.text{
+    background-color: rgb(24, 195, 218);
+}
